@@ -3,10 +3,9 @@
 <h3>I'm Waseem Ahmad – Full Stack Software Engineer (.NET Core / Angular)</h3>
 
 - 🔭 I’m currently working as a Senior Software Engineer at Stallions Technologies in Wolverhampton, UK.
-- 🚀 Experienced in workflow automation, RESTful API development, and cloud services (Azure, AWS).
+- 🚀 Experienced in workflow automation, RESTful API development, and cloud services (Azure).
 - 🌱 I’m exploring AI and working on an AI Document Summarization NuGet package using DeepSeek.
 - 👯 I’m looking to collaborate with other developers and tech stars.
-- 🎯 Actively seeking job opportunities with visa sponsorship to continue my career in the UK.
 - 📫 You can reach me at: ahmadwaseem237@gmail.com
 
 ---
